@@ -1,0 +1,26 @@
+body {
+  background-color:#D9D7F1;
+}
+hr {
+border-style: dotted none none;
+border-width:8px;
+width:10%;
+border-color:#c8c6e0;
+}
+h1,h2,h3{color:#726ba0;}
+ a{color:#302760;}
+table {color:#302760;}
+#no1 {color:#302760;}
+.bg {
+  background-color:#c8c6e0;
+  border-width: thin;
+  border-color: #726ba0;
+  border-style: dotted;
+}
+.button {width:75px;
+  height: 30px;
+   color:#D9D7F1;
+  background-color:#726ba0;
+  border: none;
+  border-radius: 20px;
+}
